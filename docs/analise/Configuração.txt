@@ -1,0 +1,5 @@
+Quais serão as expecificações do sistema?
+O acesso as informações internas, deverão ser acessadas somente via login.
+
+Quais os requisitos mínimos do sistema?
+Será útilizado sistema web.
