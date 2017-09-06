@@ -1,5 +1,2 @@
-Quais serão as expecificações do sistema?
-O acesso as informações internas, deverão ser acessadas somente via login.
-
-Quais os requisitos mínimos do sistema?
-Será útilizado sistema web.
+A tela deverá ter o nome do sistema no cabeçalho, não pode ter quebra de linha. Para acessar o sistema o cliente deve fazer um cadastro prévio, com nome, CPF e princípalmente o e-mail para útilizar como login.
+Toda alteração de cadastro deverá conter registro do usuário que realizou a alteração com data, hora, minutos e segundos. As alterações devem ser exibidas em todos os cadastros, informação a última alteração com a hora e qual usuário efetuou a alteração.
